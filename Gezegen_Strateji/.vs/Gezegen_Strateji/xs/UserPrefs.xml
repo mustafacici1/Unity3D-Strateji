@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{FA4F6FA9-C7C9-9EED-29A3-57B97AF8567C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Asker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ana_Gezegen.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/BirinciSahneYaziKaydedici.cs" Line="14" Column="28" />
+      <File FileName="Assets/Scripts/IkinciSahneYaziAyarlayici.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Asker.cs" Line="29" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gezegen_Strateji" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Planets" expanded="True">
+                <Node name="shader" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Asker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f95c7d52-69d1-450c-92af-d9ccfe4fe354" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
